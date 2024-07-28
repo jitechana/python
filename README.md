@@ -1,4 +1,4 @@
 # python
-this is my python repository.
+This is my python repository.
 </br>
 Author-Jitechana
